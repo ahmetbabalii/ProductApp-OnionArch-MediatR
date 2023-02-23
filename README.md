@@ -25,6 +25,7 @@ To run the project, follow these steps:
 4. Create the database: `dotnet ef database update`
 5. Run the application: `dotnet run`
 
+
 ![Onion Architecture](https://www.gencayyildiz.com/blog/wp-content/uploads/2021/03/Nedir-Bu-Onion-Architecture-1.png)
 
 
